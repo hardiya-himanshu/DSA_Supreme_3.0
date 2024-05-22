@@ -20,4 +20,4 @@
 
     ![alt text](assets/image-1.png)
 
-- Now you can access your notes through VSCode if you want!
+- Now you can access your notes through VSCode if you want in PDF format!
