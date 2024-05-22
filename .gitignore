@@ -1,4 +1,4 @@
 README.sample.md
 *.exe
-*assets
-*.png
+# *assets
+# *.png
