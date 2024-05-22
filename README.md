@@ -10,14 +10,14 @@
   
 - After downloading the notes, Install **Markdown PDF** by **yzane** through your Extensions in VSCode.
 
-    ![alt text](/assets/image.png)
+    ![alt text](image.png)
 
 - Then open your .md notes and just right-click from anywhere in .md(notes) to open content then select **Export (pdf)**.
 
-  - ![alt text](/assets/image-2.png)
+  - ![alt text](image-2.png)
 
 - Now your PDF file will be download in your note's(.md) parent folder. You can access it from your OS explorer or to open PDF notes in VSCode. You can Download **vscode-pdf** by **tomoki1207**
 
-    ![alt text](/assets/image-1.png)
+    ![alt text](image-1.png)
 
 - Now you can access your notes through VSCode if you want!
